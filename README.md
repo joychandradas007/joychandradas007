@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joy271f&label=👀+Profile+Views&color=0078d7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=joychandradas007&label=👀+Profile+Views&color=0078d7&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://joychandradas.netlify.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -71,7 +71,7 @@ I build web apps that are easy to use, fast, and can grow with the needs of user
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joy271f&theme=radical&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joychandradas007&theme=radical&hide_border=true">
 </p>
 
 ---
@@ -79,8 +79,8 @@ I build web apps that are easy to use, fast, and can grow with the needs of user
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joy271f&show_icons=true&theme=radical&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy271f&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=joychandradas007&show_icons=true&theme=radical&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joychandradas007&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
@@ -88,7 +88,7 @@ I build web apps that are easy to use, fast, and can grow with the needs of user
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joy271f&theme=algolia&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joychandradas007&theme=algolia&row=1&column=6" />
 </p>
 
 ---
